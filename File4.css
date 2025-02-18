@@ -4528,7 +4528,7 @@ div.Ssylki-anime-v-1:hover .Fon {
     opacity: 1;
 }
 
-.Ssylki-anime-v-1 .Fon::after {
+/*.Ssylki-anime-v-1 .Fon::after {
     position: absolute;
     content: "";
     background-image: url("//moe.shikimori.one/system/user_images/original/208335/1426717.jpg");
@@ -4541,7 +4541,7 @@ div.Ssylki-anime-v-1:hover .Fon {
     background-position: center;
     border-radius: 0.2rem 0.2rem 0 0;
     z-index: -1;
-}
+}*/
 
 .Ssylki-anime-v-1 .progress {
     position: absolute;
