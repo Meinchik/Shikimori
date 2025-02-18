@@ -91,7 +91,7 @@ img[alt='morr'] {
 .name-date a.name[href*="/Cosmo+%E2%98%AD"]:hover:after,
 .subheadline a[title="Cosmo+%E2%98%AD"]:hover:after
 {
-    content:"Edesign Admin";
+    content:"Made by Meinchik";
 }
 
 
@@ -2245,7 +2245,7 @@ body.p-achievements.p-profiles .subheadline:after {
 }
 
 body.p-achievements.p-profiles .l-footer:before {
-    content: "Orig. Design by grin3671 | Redesigned by EngiNier" !important;
+    content: "Made by Meinchik" !important;
     color: #ffd78c;
 }
 
