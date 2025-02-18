@@ -1,0 +1,43 @@
+@import url("https://meinchik.github.io/Shikimori/File1.css");
+@import url("https://meinchik.github.io/Shikimori/File2.css");
+@import url("https://meinchik.github.io/Shikimori/File3.css");
+@import url("https://meinchik.github.io/Shikimori/File4.css");
+@import url("https://meinchik.github.io/Shikimori/File5_Form.css");
+body:after {
+  background-image: url(https://i.ibb.co/s9DfMtYn/image.png); /*Нужен другой масштаб*/
+}
+
+.l-footer:after {
+  content: "Небывалое настоящее";
+}
+
+@media screen and (min-width: 1px) {
+  html:root {
+    --white-color: 218, 213, 255;
+    --light-color: 183, 192, 241;
+    --dark-color: 136, 145, 212;
+    --bright-color: 161, 158, 253;
+    --dull-color: 124, 127, 179;
+    --input-color: 95, 95, 127;
+    --hover-bottoms-1: 40, 39, 86;
+    --buttoms-color: 45, 45, 120;
+    --hover-buttoms-2: 156, 98, 25;
+    --very-high-rating: 126, 123, 226;
+    --high-rating: 93, 90, 187;
+    --average-rating: 59, 60, 134;
+    --small-rating: 41, 43, 117;
+    --time-filled: 70, 73, 175;
+    --time-empty: 18, 14, 53;
+    --anime-inprocess: 69, 146, 76;
+    --anime-complete: 41, 107, 47;
+    --manga-inprocess: 189, 15, 86;
+    --manga-complete: 153, 0, 62;
+    --hover-color: 210, 137, 45;
+    --shadows-color: 134, 141, 193;
+    --block-color: 46, 45, 97;
+    --menu-back: 10, 13, 33;
+    --nick-cover: 45, 33, 167;
+    --popup-color: 35, 34, 75;
+    --hundred: 1;
+  }
+}
