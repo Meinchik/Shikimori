@@ -1,6 +1,6 @@
-/*.l-footer:before {
+/* .l-footer:before {
     content: 'Made by Meinchik';
-}*/
+} */
 .b-club .name-logo .name {
     transition: 1s ease;
 }
@@ -998,7 +998,7 @@ textarea#user_rate_text {
     display: none;
 }
 
-.l-footer {
+/* .l-footer {
     position: relative;
     margin: 0 0;
     bottom: 0;
@@ -1059,7 +1059,7 @@ body.p-achievements.p-profiles .l-footer .links a {
     bottom: 0;
     color: rgba(var(--dark-color), 0.6);
     font: bold 10px 'Comfortaa';
-}
+} */
 
 .b-subposter-action.invite.b-tooltipped, label.b-subposter-action.upload.b-tooltipped {
     color: rgba(var(--bright-color), var(--hundred));
